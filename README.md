@@ -1,1 +1,0 @@
-# Static-Sign-Language-Recognition
